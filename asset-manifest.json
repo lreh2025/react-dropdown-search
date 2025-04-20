@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dropdown-search/static/css/main.bedb3141.css",
+    "main.js": "/react-dropdown-search/static/js/main.27b7667d.js",
+    "static/js/453.ed3810f9.chunk.js": "/react-dropdown-search/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/react-dropdown-search/index.html",
+    "main.bedb3141.css.map": "/react-dropdown-search/static/css/main.bedb3141.css.map",
+    "main.27b7667d.js.map": "/react-dropdown-search/static/js/main.27b7667d.js.map",
+    "453.ed3810f9.chunk.js.map": "/react-dropdown-search/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bedb3141.css",
+    "static/js/main.27b7667d.js"
+  ]
+}
