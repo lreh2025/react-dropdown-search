@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { Component } from 'react';
 import './App.css';
 import HelloWorld from './HelloWorld';
@@ -23,7 +24,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <HelloWorld name="Lawrence" />
+        <HelloWorld name="Law Reh" />
         <Counter />
         <FilteredList items={produce} />
       </div>
